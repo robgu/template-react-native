@@ -1,0 +1,29 @@
+{
+  "name": "ReactNativeRedux",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "babel-preset-react-native": "3.0.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "react": "16.0.0-alpha.12",    "redux-router": "2.1.2",    "bugsnag-react-native": "2.1.0",
+
+    "redux-thunk": "2.2.0",
+    "react-native": "0.48.1",    "redux-logger": "3.0.1",    "babel-plugin-transform-decorators-legacy": "1.3.4",
+
+
+    "react-native-router-flux": "^4.0.0-beta.21",    "intl-messageformat": "1.3.0",    "react-redux": "5.0.3",
+
+    "babel-eslint": "7.2.1",    "eslint": "3.19.0",    "eslint-config-airbnb": "14.1.0",
+		"eslint-plugin-react-native": "2.3.1",
+
+
+
+    "redux": "^3.7.2"
+  }
+}
